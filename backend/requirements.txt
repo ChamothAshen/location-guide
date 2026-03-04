@@ -1,12 +1,7 @@
-crewai
-langchain-community
-duckduckgo-search
-groq
 fastapi
-uvicorn
+uvicorn[standard]
 pydantic
 pandas
-python-dotenv
+numpy
 joblib
-langchain-groq
-mcp
+scikit-learn
