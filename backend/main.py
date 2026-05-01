@@ -38,6 +38,9 @@ LOCATION_COORDS = {
     "Summer Palace": (7.956593, 80.756135),
     "Water Fountains": (7.957265, 80.755617),
     "Water Garden": (7.957415, 80.754714),
+    "Pahangala": (7.95898, 80.75776),
+    "Aligala Caves": (7.95781, 80.76061),
+    "Rock Shelter": (7.95636, 80.75941),
 }
 
 
@@ -138,6 +141,27 @@ LOCATION_INFO = {
         "facts": "The cave's drip ledge is one of the earliest examples of this architectural feature in Sri Lanka. Traces of ancient paintings can still be seen on the ceiling.",
         "tips": "Look at the shape of the rock from a distance to see why it's called Cobra Hood. The cave provides welcome shade during your climb!",
         "default": "The Cobra Hood Cave gets its name from the distinctive rock overhang resembling a cobra's hood. This ancient shelter was used by Buddhist monks centuries before King Kashyapa built his fortress."
+    },
+    "Pahangala": {
+        "history": "Pahangala is a rocky outcrop near the Sigiriya fortress, believed to have served as a lookout point during King Kashyapa's reign in the 5th century AD. Its elevated position provided strategic vantage over the surrounding landscape.",
+        "architecture": "The natural rock formation rises prominently from the terrain. Evidence suggests modifications were made to the rock surface to create platforms and observation points for guards.",
+        "facts": "Pahangala offers some of the best panoramic views of the Sigiriya rock fortress and the surrounding jungle, making it a lesser-known gem for visitors.",
+        "tips": "Visit Pahangala for a quieter experience away from the main tourist crowds. It provides excellent photography angles of the Sigiriya rock.",
+        "default": "Pahangala is a rocky outcrop near Sigiriya offering panoramic views of the surrounding landscape. Believed to have been used as a strategic lookout point during King Kashyapa's reign."
+    },
+    "Aligala Caves": {
+        "history": "Aligala Caves are prehistoric cave shelters with evidence of human habitation dating back thousands of years. Archaeological excavations have revealed stone tools, pottery fragments, and other artifacts from early settlers.",
+        "architecture": "The caves are natural rock formations with overhanging ledges providing shelter. Some caves show signs of modification including drip ledges and smoothed interior surfaces.",
+        "facts": "Aligala Caves are one of the most important prehistoric sites near Sigiriya, with evidence suggesting continuous human habitation from the Mesolithic period through to historical times.",
+        "tips": "Bring a flashlight to explore the deeper cave recesses. The site is less crowded than main Sigiriya attractions and offers a fascinating glimpse into prehistoric life.",
+        "default": "Aligala Caves are prehistoric shelters near Sigiriya containing evidence of ancient human habitation dating back thousands of years, with stone tools and pottery fragments discovered at the site."
+    },
+    "Rock Shelter": {
+        "history": "The Rock Shelter near Sigiriya was used by ancient inhabitants for protection from the elements. These natural formations served as dwelling places for prehistoric communities and later by Buddhist monks.",
+        "architecture": "Natural rock overhangs create spacious sheltered areas. Some shelters show evidence of drip ledges, plastered walls, and carved features added by ancient occupants.",
+        "facts": "Rock shelters like these were among the earliest forms of human habitation in Sri Lanka. They served as homes, monasteries, and meditation retreats across different historical periods.",
+        "tips": "Look for traces of ancient paintings on the rock surfaces and carved inscriptions. These shelters provide a cool retreat and a chance to connect with the area's deep history.",
+        "default": "The Rock Shelter near Sigiriya was used by ancient inhabitants for protection and habitation. These natural formations contain traces of early human settlement and monastic activity."
     },
     "Sigiriya": {
         "history": "Sigiriya, the 'Lion Rock', is a 5th-century rock fortress built by King Kashyapa I after he seized the throne from his father. For 18 years, it served as his impregnable capital.",
